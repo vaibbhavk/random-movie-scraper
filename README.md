@@ -1,4 +1,4 @@
-# Data Scraping - IMDb Top 250 
+# Data Scraping - IMDb Top 250 Movies
 
 ## Dependencies
 - requests
